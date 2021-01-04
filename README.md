@@ -2,5 +2,6 @@
 
 
 ###### Admin Details
-username: admin
-password: password
+*username: admin*
+
+*password: password*
