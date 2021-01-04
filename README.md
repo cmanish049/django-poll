@@ -1,7 +1,7 @@
 # Django Poll
 
 
-###### Admin Details
+#### Admin Details
 *username: admin*
 
 *password: password*
