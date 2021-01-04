@@ -1,1 +1,1 @@
-# django-poll
+# Django Poll
